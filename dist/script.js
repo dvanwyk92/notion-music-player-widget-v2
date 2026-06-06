@@ -30,7 +30,7 @@ $(function () {
   ];
   const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
   const trackUrl = [
-    "https://github.com/dvanwyk92/audio-library-repo/blob/main/audio%20library/World%20Builder.mp3",
+    "https://github.com/dvanwyk92/notion-music-player-widget-v2/blob/main/World%20Builder.mp3",
     "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
     "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
     "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
